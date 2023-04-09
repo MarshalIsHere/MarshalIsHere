@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarshalIsHere
 - 👀 I’m interested in programming and information technology.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python,web deveolpment.
 - 💞️ I’m looking to collaborate with somebody .
 - 📫 You can reach me through git ?.
 
